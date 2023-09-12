@@ -63,10 +63,8 @@
 
 - `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
 
- 
-- `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
-  
-- `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
+These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages.
 
-These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
-
+![Screenshot 2023-09-12 143023](https://github.com/divyanshrajpoot9/FlexBoxPhotoGalleryPage/assets/114856467/056e956b-11cd-4c84-8ccd-e498f237c1bb)
+![Screenshot 2023-09-12 143039](https://github.com/divyanshrajpoot9/FlexBoxPhotoGalleryPage/assets/114856467/6254e836-9eb5-4d6e-848f-42d02219239b)
+![Screenshot 2023-09-12 143046](https://github.com/divyanshrajpoot9/FlexBoxPhotoGalleryPage/assets/114856467/86ca0ec1-45f2-4e4a-bfa9-4236a61692d8)
