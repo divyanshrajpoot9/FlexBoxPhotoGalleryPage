@@ -1,6 +1,5 @@
-# FlexBoxPhotoGalleryPage
-
-### Hosted Link: 
+# FlexBoxPhotoGalleryPage.
+### Hosted Link: https://divyanshrajpoot9.github.io/FlexBoxPhotoGalleryPage/
 ### HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ### Brief description of some of the most commonly used HTML tags:
 
@@ -38,23 +37,9 @@
 
 - `color`: Sets the text color.
 
-- `font-family`: Specifies the typeface or font for text.
-
-- `font-size`: Determines the size of the font.
-
-- `font-weight`: Controls the thickness of characters (boldness).
-
-- `font-style`: Defines the style of the font (italic, normal, etc.).
-
 - `text-align`: Sets the horizontal alignment of text (left, right, center, justify).
 
 - `text-decoration`: Adds underlines, overlines, or strikes through text.
-
-- `line-height`: Specifies the vertical space between lines of text.
-
-- `letter-spacing`: Adjusts the space between characters in text.
-
-- `word-spacing`: Modifies the space between words in text.
 
 - `background-color`: Sets the background color of an element.
 
@@ -78,7 +63,6 @@
 
 - `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
 
-- `z-index`: Controls the stacking order of overlapping elements.
  
 - `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
   
